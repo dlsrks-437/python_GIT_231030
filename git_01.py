@@ -1,1 +1,6 @@
 print('play')
+print('play')
+print('play')
+print('play')
+print('play')
+print('play')
